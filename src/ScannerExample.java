@@ -7,10 +7,9 @@ public class ScannerExample {
 		int fir = sc.nextInt();
 		System.out.print("enter seconf no:");
 		int sec = sc.nextInt();
-		System.out.println("Sum is:" + (fir+sec));
+		System.out.println("Sum is:" + (fir + sec));
 		System.out.println();
-		
-		
+
 	}
 
 }
